@@ -1,0 +1,8 @@
+﻿  CHF Tester.cpp
+C:\Users\Beldorp\Documents\GitHub\Senior-Project-2021\CHF Tester\CHF Tester.cpp(277,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Beldorp\Documents\GitHub\Senior-Project-2021\CHF Tester\CHF Tester.cpp(391,44): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\Beldorp\Documents\GitHub\Senior-Project-2021\CHF Tester\CHF Tester.cpp(391,44): warning C4244:         with
+C:\Users\Beldorp\Documents\GitHub\Senior-Project-2021\CHF Tester\CHF Tester.cpp(391,44): warning C4244:         [
+C:\Users\Beldorp\Documents\GitHub\Senior-Project-2021\CHF Tester\CHF Tester.cpp(391,44): warning C4244:             _Rep=__int64
+C:\Users\Beldorp\Documents\GitHub\Senior-Project-2021\CHF Tester\CHF Tester.cpp(391,44): warning C4244:         ]
+  CHF Tester.vcxproj -> C:\Users\Beldorp\Documents\GitHub\Senior-Project-2021\CHF Tester\Debug\CHF Tester.exe
